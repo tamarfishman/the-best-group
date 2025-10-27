@@ -1,0 +1,30 @@
+
+body {
+    background-color: #f3e5f5; /* Light pastel lavender */
+    font-family: Arial, sans-serif;
+    color: #4a148c; /* Dark purple */
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ad1457; /* Deep pink */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #673ab7; /* Purple */
+    background-color: #e1bee7; /* Light pink */
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 5px;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #f06292; /* Hover color - pink */
+    color: white;
+}
